@@ -1,6 +1,6 @@
 # feedback
 Auto collect user's feedback  
-Assuming there are three types of feedback. you can define more types in you db.  
+Assuming there are three types of feedback's response. you can define more types in you db.  
 The three types are logistics, goods, and default type.    
 I have defined in constant.go  
 You can test in postman.  
